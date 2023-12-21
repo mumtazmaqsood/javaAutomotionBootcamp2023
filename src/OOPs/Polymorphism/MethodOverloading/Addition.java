@@ -1,4 +1,4 @@
-package OOPs.Inheritance.MethodOverloading;
+package OOPs.Polymorphism.MethodOverloading;
 
 //methodoverloading by arguments and by return type
 public class Addition {

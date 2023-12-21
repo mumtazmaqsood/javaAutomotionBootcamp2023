@@ -1,4 +1,4 @@
-package OOPs.Inheritance.MethodOverloading;
+package OOPs.Polymorphism.MethodOverloading;
 
 //example of method overloading, this class is extending Addition class
 
