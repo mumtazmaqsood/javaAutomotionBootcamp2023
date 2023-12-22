@@ -21,5 +21,5 @@ public class EngineeringClass implements StudentInterface{
     public int getGrade() {
         return 0;
     }
-    
+
 }
